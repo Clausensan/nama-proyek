@@ -1,0 +1,30 @@
+.fullscreen-bg {
+    background-position: center;
+  }
+  
+  @media (max-width: 768px) {
+    .fullscreen-bg {
+      background-position: top;
+    }
+  }
+  
+  .bg-transparent {
+    background-color: transparent;
+  }
+  
+  .link-transition {
+    transition: color 0.3s ease;
+  }
+  
+  .link-transition:hover {
+    color: blue;
+  }
+  
+  .link-transition-underline {
+    text-decoration: underline;
+  }
+
+
+  
+  
+  
