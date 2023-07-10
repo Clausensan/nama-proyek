@@ -26,7 +26,7 @@ function Sejarah() {
 
       <div className="grid grid-cols-2 gap-4">
         <div className="pb-14 pt-5">
-        <img src={tumblr} />
+        <img src={tumblr} alt="tumblr" />
         </div>
         <div className="pb-14 pt-5">
           <h1 className="first-line:text-3xl p-10">Arsitektur</h1>
@@ -38,10 +38,10 @@ function Sejarah() {
         
       <div className="grid grid-cols-2 gap-4">
         <div className="pb-14 pt-5">
-        <img src={img} />
+        <img src={img} alt="img" />
         </div>
         <div className="pb-14 pt-5">
-        <img src={soekarnosilaban} />
+        <img src={soekarnosilaban} alt="soekarnosilaban" />
         </div>
       </div>
 
@@ -54,12 +54,12 @@ function Sejarah() {
           </p>
         </div>
         <div>
-        <img src={ptsd} />
+        <img src={ptsd} alt="ptsd" />
         </div>
       </div>
       <div className="grid grid-cols-2 gap-4">
       <div>
-      <img src={museum} />
+      <img src={museum} alt="museum"/>
       </div>
       <div className="pb-14 pt-5">
           <h1 className="first-line:text-3xl p-10">Museum Sejarah Nasional</h1>
@@ -75,11 +75,11 @@ function Sejarah() {
             Lapangan Monas adalah sebuah area terbuka yang luas yang terletak di sekitar Monumen Nasional (Monas). Lapangan ini memiliki peran penting sebagai tempat berkumpul, bersantai, dan beraktivitas bagi penduduk setempat dan wisatawan. Lapangan Monas sering digunakan untuk berbagai acara olahraga, konser, perayaan nasional, dan acara publik lainnya.
           </p>
         </div>
-        <img src={lapmonas} />
+        <img src={lapmonas} alt="lapmonas" />
       </div>
       <div className="grid grid-cols-2 gap-4">
       <div>
-        <img src={bagus} />
+        <img src={bagus} alt="bagus"/>
       </div>
       <div className="pb-14 pt-5">
           <h1 className="first-line:text-3xl p-10">Pengunjung <br />dan Wisata Monas</h1>
