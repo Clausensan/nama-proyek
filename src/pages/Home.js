@@ -5,7 +5,7 @@ import Footer from '../Components/Footer.js';
 const Home = () => {
   return (
     <>
-      <div className="responsive">
+      <div className="center">
         <img src={MonazImage} className='w-full h-full object-cover absolute mix-blend-overlay' alt="Monas" />
       </div>
       <div className="flex justify-center items-center h-screen">

@@ -5,9 +5,11 @@ import Image3 from '../img/gambar3.jpg';
 import Image4 from '../img/gambar4.jpeg';
 import Image5 from '../img/gambar5.jpg';
 import Image6 from '../img/gambar6.jpeg';
+import Footer from '../Components/Footer.js';
 
 const BeritaArtikel = () => {
   return (
+    <>
     <div className="pb-14 pt-5">
       <h1 className="text-4xl font-bold text-black text-center">Berita</h1>
       <div className="grid md:grid-cols-3 gap-8 mt-8">
@@ -70,7 +72,8 @@ const BeritaArtikel = () => {
       </div>
       </div>
     </div>
-    
+    <Footer />
+</>    
     
   );
 }

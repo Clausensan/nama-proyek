@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../Components/Footer.js';
 
 const Contact = () => {
   return (
@@ -19,14 +20,11 @@ const Contact = () => {
             title="Google Maps"
             width="100%"
             height="608"
-            frameBorder="0"
-            scrolling="no"
-            marginHeight="0"
-            marginWidth="0"
-            src="https://maps.google.com/maps?width=661&amp;height=608&amp;hl=en&amp;q=JL.%20Silang%20Monas,%20Gambir,%20Jakarta,%20DKI%20Jakarta,%20Indonesia&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
-          ></iframe>
+            src="https://maps.google.com/maps?width=661&amp;height=608&amp;hl=en&amp;q=Jl. museum sejarah nasional, Gambir, Jakarta Pusat, DKI Jakarta, Indonesia,&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+          </iframe>
         </div>
       </div>
+      <Footer />
     </>
   );
 }
