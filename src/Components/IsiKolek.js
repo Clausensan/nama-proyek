@@ -38,7 +38,6 @@ function Isikolek() {
       <div className="tracking-widest text-justify px-24">
         <div className="gap-4">
           <div className="pb-14 pt-5">
-            <h1 className="text-4xl font-bold text-black text-center">Koleksi</h1>
             <h1 className="first-line:text-3xl p-10 text-center">Ruang<br />Kemerdekaan</h1>
             <p className="first-letter:text-3xl :hover">
               Ruang Kemerdekaan Garuda Pancasila Emas adalah salah satu ruangan yang memiliki makna simbolis yang tinggi dalam memperingati perjuangan kemerdekaan Indonesia. Ruangan ini dirancang secara khusus untuk menghormati dan mengenang semangat perjuangan bangsa Indonesia dalam mencapai kemerdekaan. Ruang Kemerdekaan Garuda Pancasila Emas menggambarkan semangat kebangsaan dan nilai-nilai Pancasila sebagai dasar negara Indonesia.
