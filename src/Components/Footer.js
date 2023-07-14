@@ -55,7 +55,7 @@ function Foot() {
               <h1 className='text-center'>&copy; 2023 Monumen Nasional. /Achmad Husein Rifansyah <br /> Okta Gabriel Sinsaku Sinaga. </h1>
           </tbody>
         </table>
-      </div>
+      </div><br />
     </div>
   );
 }
