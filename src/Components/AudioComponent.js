@@ -6,8 +6,8 @@ import 'tailwindcss/tailwind.css';
 const AudioComponent = () => {
   return (
     <div className="flex flex-col items-center">
-      <div className="font-mono text-xl text-base/loose italic tracking-wide text-center first-letter:xxl">
-        <h1 className="text-2xl font-semibold first-letter: font-bold">Proklamasi</h1>
+      <div className="font-mono text-base/loose italic tracking-wide text-center first-letter:xxl">
+        <h1 className="text-2xl first-letter: font-bold">Proklamasi</h1>
         <div>
           <p>
             Kami bangsa Indonesia dengan ini menyatakan Kemerdekaan Indonesia.<br />
