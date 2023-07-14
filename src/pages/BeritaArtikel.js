@@ -60,7 +60,7 @@ const BeritaArtikel = () => {
       </div>
       <div><br></br>
         <h1 className="text-4xl font-bold text-black text-center">Artikel</h1><br></br>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div className="grid md:grid-cols-2 gap-8">
         <div className="bg-white rounded-lg shadow-md p-6">
         <a href="https://journal.binus.ac.id/index.php/Humaniora/article/view/3242" className="text-xl font-bold mb-2 hover:underline">Monas sebagai Wajah Dewasa Kota Jakarta: Analisis Manajemen Reputasi dalam Pengelolaan Monas sebagai Ikon Negara</a>
         <p className="text-gray-500">Artikel menjelaskan pengelolaan reputasi Monumen Nasional (Monas), Ikon Jakarta sekaligus simbol Indonesia. Penelitian ini menggunakan paradigma positivis, sifat penelitiannya adalah deskriptif dan pendekatan yang dipilih adalah kualitatif. Pengumpulan data dilakukan dengan wawancara mendalam dan observasi, analisis naratif digunakan.</p>
