@@ -14,12 +14,12 @@ function Sejarah() {
     <div className="font-serif tracking-widest text-justify px-24 ">
       <div className="grid grid-cols-2 gap-4">
         <div className="pb-14 pt-5">
-          <h1 className="first-line:text-3xl p-10">Sejarah</h1>
+          <h1 className="first-line:text-3xl p-10">Sejarah</h1> 
           <p className="first-letter:text-3xl ">
             Monumen Nasional (Monas) adalah sebuah landmark yang menjadi simbol perjuangan kemerdekaan Indonesia. Pembangunannya dimulai pada tahun 1961 dan selesai pada tahun 1975. Monas dibangun sebagai penghormatan kepada perjuangan dan pengorbanan para pahlawan nasional yang berjuang untuk kemerdekaan Indonesia dari penjajahan Belanda. Monas juga menjadi pusat kebanggaan bangsa dan salah satu ikon terkenal di Jakarta. Didesain oleh arsitek terkenal Frederich Silaban, Monas memiliki struktur utama berupa menara setinggi 132 meter yang dilapisi dengan marmer.
           </p>
         </div>
-        <div>
+        <div><br />
         <img src={bg} alt="Monas" />
         </div>
       </div>
@@ -55,7 +55,7 @@ function Sejarah() {
         </div>
         <div>
         <img src={ptsd} alt="ptsd" />
-        </div>
+        </div><br />
       </div>
       <div className="grid grid-cols-2 gap-4">
       <div>
@@ -66,7 +66,7 @@ function Sejarah() {
           <p className="first-letter:text-3xl">
             Museum Sejarah Nasional yang terletak di kompleks Monumen Nasional (Monas) adalah sebuah institusi penting yang memamerkan koleksi artefak dan informasi sejarah Indonesia. Museum ini menjadi tempat yang ideal bagi pengunjung yang ingin menjelajahi perjalanan sejarah Indonesia dari masa lampau hingga masa kini. Di dalam museum ini, terdapat berbagai benda bersejarah yang dipamerkan, termasuk lukisan, patung, peralatan, dan dokumen penting yang merekam peristiwa dan perkembangan penting dalam sejarah Indonesia.
           </p>
-        </div>
+        </div><br />
       </div>
       <div className="grid grid-cols-2 gap-4">
       <div className="pb-14 pt-5">
@@ -78,7 +78,7 @@ function Sejarah() {
         <img src={lapmonas} alt="lapmonas" />
       </div>
       <div className="grid grid-cols-2 gap-4">
-      <div>
+      <div> <br />
         <img src={bagus} alt="bagus"/>
       </div>
       <div className="pb-14 pt-5">
