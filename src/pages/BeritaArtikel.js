@@ -71,7 +71,7 @@ const BeritaArtikel = () => {
       </div>
       </div>
       </div>
-    </div>
+    </div><br />
     <Footer />
 </>    
     
