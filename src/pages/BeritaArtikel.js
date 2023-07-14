@@ -10,7 +10,7 @@ import Footer from '../Components/Footer.js';
 const BeritaArtikel = () => {
   return (
     <>
-    <div className="pb-14 pt-5">
+    <div className="text-justify px-10">
       <h1 className="text-4xl font-bold text-black text-center">Berita</h1>
       <div className="grid md:grid-cols-3 gap-8 mt-8">
         <div className="bg-white rounded-lg shadow-md">
