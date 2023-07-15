@@ -8,7 +8,7 @@ function TentangMuseum() {
   return (
     <>
     <div className="pb-14 pt-5">
-      <h1 className="text-4xl font-bold text-black text-center">Tentang</h1><br></br>
+      <h1 className="text-4xl font-bold text-black text-center">Tentang Museum</h1><br></br>
       <Sejarah />
       <DaftarIsi />
     </div>
