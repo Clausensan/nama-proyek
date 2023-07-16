@@ -4,6 +4,8 @@ import Gallery from './Gallery';
 import { motion } from 'framer-motion';
 import { FiIconName } from 'react-icons/fi';
 import Garuda from '../img/Garuda.jpg';
+
+
 import nusantara from '../img/nusantara.jpeg';
 import Proclamation from '../img/Proclamation.jpg';
 
