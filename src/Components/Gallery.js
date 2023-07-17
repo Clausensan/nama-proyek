@@ -49,7 +49,6 @@ const Gallery = () => {
               transition={{ duration: 0.3 }}
               className="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50"
             >
-              <FiPlus className="text-4xl text-white" />
             </motion.div>
             <div className="bg-gray-800 text-white text-center py-2">
               <p className="text-lg font-semibold">{image.name}</p>
