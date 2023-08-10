@@ -12,7 +12,6 @@ function TentangMuseum() {
       <Sejarah />
       <DaftarIsi />
     </div>
-    <Footer />
     </>
   );
 }

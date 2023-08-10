@@ -72,7 +72,6 @@ const BeritaArtikel = () => {
       </div>
       </div>
     </div><br />
-    <Footer />
 </>    
     
   );

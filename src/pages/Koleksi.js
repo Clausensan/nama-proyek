@@ -13,7 +13,6 @@ function Koleksi() {
     <div>
     <Isikolek />
     <AudioComponent />
-    <Footer />
     </div>
   );
 }
